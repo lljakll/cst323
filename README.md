@@ -1,4 +1,6 @@
-<p align="center"><a href="" target="_blank"><img src="https://github.com/lljakll/jasode/blob/bfaa4eebaa81a65badd174309bb755f1a25ac76d/ja-sd-white.png" width="392"></a></p>
+<p align="left"><a href="" target="_blank"><img src="https://github.com/lljakll/jasode/blob/bfaa4eebaa81a65badd174309bb755f1a25ac76d/ja-sd-white.png" width="392"></a></p>
+
+## ToDo List
 
 ## CST-323
 
@@ -10,7 +12,8 @@ Activity Test App
 2. Access the project directory
 3. Install project dependencies from composer
 >composer install
-4. Install NPM dependencies >npm install
+4. Install NPM dependencies
+>npm install
 5. Create the .env file
 >cp .env.example .env
 6. Generate your encryption key
@@ -21,4 +24,3 @@ give user proper access to the db
 add connection references and user credentials to the .env.
 10.  Add db contents
 >php artisan migrate
- 
